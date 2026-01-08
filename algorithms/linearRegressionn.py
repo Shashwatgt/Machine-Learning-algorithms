@@ -103,4 +103,5 @@ if __name__ == "__main__":
     out= train_evaluate_save(lr_model)
     print("Training and evaluation results:")
     print(out)
+    print("Congratulation your code is running:")
 
